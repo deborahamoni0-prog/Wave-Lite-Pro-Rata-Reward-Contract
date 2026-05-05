@@ -1,0 +1,1 @@
+{"name":"wave-lite","version":"1.0.0","description":"Pro-Rata Reward Contract","scripts":{"compile":"hardhat compile","test":"hardhat test","deploy":"hardhat run scripts/deploy.ts"},"devDependencies":{"@nomicfoundation/hardhat-toolbox":"^6.1.2","@types/node":"^25.6.0","dotenv":"^17.4.2","hardhat":"^3.4.4","ts-node":"^10.9.2","typescript":"^6.0.3"},"type":"module"}
