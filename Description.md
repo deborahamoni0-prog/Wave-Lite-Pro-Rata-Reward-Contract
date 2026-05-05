@@ -1,1 +1,0 @@
-Wave-Lite is a lightweight Ethereum smart contract for DAOs and open-source projects to run time-boxed reward rounds. A maintainer funds an ETH pool, assigns points to contributors, then closes the wave. Contributors claim their pro-rata share automatically on-chain. No tokens, no governance overhead.
